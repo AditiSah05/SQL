@@ -15,6 +15,7 @@ Generated with LeetHub v2: https://github.com/arunbhardwaj/LeetHub-2.0
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/AditiSah05/SQL/tree/master/0178-rank-scores) |
+| [0180-consecutive-numbers](https://github.com/AditiSah05/SQL/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
 
 ## Project Overview
