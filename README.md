@@ -6,11 +6,15 @@ Professional, well-documented MySQL solutions for selected LeetCode database pro
 Generated with LeetHub v2: https://github.com/arunbhardwaj/LeetHub-2.0
 
 <!---LeetCode Topics Start-->
+# LeetCode Topics
 ## Repository Contents
-
-- [0176-second-highest-salary](0176-second-highest-salary/0176-second-highest-salary.sql) — SQL solution and problem notes
+|  |
+| ------- |
 - [0177-nth-highest-salary](0177-nth-highest-salary/0177-nth-highest-salary.sql) — SQL solution and problem notes
-
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/AditiSah05/SQL/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
 
 ## Project Overview
