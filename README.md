@@ -1,11 +1,25 @@
-# SQL
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+# SQL — LeetCode SQL Solutions
+
+Professional, well-documented MySQL solutions for selected LeetCode database problems. Each problem lives in its own numbered folder and includes a concise solution and a short explanation.
+
+Generated with LeetHub v2: https://github.com/arunbhardwaj/LeetHub-2.0
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0176-second-highest-salary](https://github.com/AditiSah05/SQL/tree/master/0176-second-highest-salary) |
-| [0177-nth-highest-salary](https://github.com/AditiSah05/SQL/tree/master/0177-nth-highest-salary) |
+## Repository Contents
+
+- [0176-second-highest-salary](0176-second-highest-salary/0176-second-highest-salary.sql) — SQL solution and problem notes
+- [0177-nth-highest-salary](0177-nth-highest-salary/0177-nth-highest-salary.sql) — SQL solution and problem notes
+
 <!---LeetCode Topics End-->
+
+## Project Overview
+
+This repository collects clear, idiomatic MySQL solutions to common LeetCode database problems. Solutions are intended to be readable, correct, and suitable as references when preparing for technical interviews.
+
+## Repository Structure
+
+- `0176-second-highest-salary/` — problem SQL and README
+- `0177-nth-highest-salary/` — problem SQL and README
+
+
