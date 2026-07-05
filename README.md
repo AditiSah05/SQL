@@ -19,6 +19,7 @@ Generated with LeetHub v2: https://github.com/arunbhardwaj/LeetHub-2.0
 | [0184-department-highest-salary](https://github.com/AditiSah05/SQL/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/AditiSah05/SQL/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/AditiSah05/SQL/tree/master/0196-delete-duplicate-emails) |
+| [0262-trips-and-users](https://github.com/AditiSah05/SQL/tree/master/0262-trips-and-users) |
 <!---LeetCode Topics End-->
 
 ## Project Overview
