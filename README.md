@@ -22,6 +22,7 @@ Generated with LeetHub v2: https://github.com/arunbhardwaj/LeetHub-2.0
 | [0262-trips-and-users](https://github.com/AditiSah05/SQL/tree/master/0262-trips-and-users) |
 | [1068-product-sales-analysis-i](https://github.com/AditiSah05/SQL/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AditiSah05/SQL/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/AditiSah05/SQL/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
 
 ## Project Overview
