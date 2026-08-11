@@ -21,6 +21,7 @@ Generated with LeetHub v2: https://github.com/arunbhardwaj/LeetHub-2.0
 | [0196-delete-duplicate-emails](https://github.com/AditiSah05/SQL/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/AditiSah05/SQL/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/AditiSah05/SQL/tree/master/0262-trips-and-users) |
+| [0627-swap-sex-of-employees](https://github.com/AditiSah05/SQL/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/AditiSah05/SQL/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AditiSah05/SQL/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/AditiSah05/SQL/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
