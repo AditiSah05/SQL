@@ -40,6 +40,7 @@ Generated with LeetHub v2: https://github.com/arunbhardwaj/LeetHub-2.0
 | [1661-average-time-of-process-per-machine](https://github.com/AditiSah05/SQL/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/AditiSah05/SQL/tree/master/1667-fix-names-in-a-table) |
 | [1934-confirmation-rate](https://github.com/AditiSah05/SQL/tree/master/1934-confirmation-rate) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/AditiSah05/SQL/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
 
 ## Project Overview
