@@ -26,6 +26,7 @@ Generated with LeetHub v2: https://github.com/arunbhardwaj/LeetHub-2.0
 | [0577-employee-bonus](https://github.com/AditiSah05/SQL/tree/master/0577-employee-bonus) |
 | [0627-swap-sex-of-employees](https://github.com/AditiSah05/SQL/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/AditiSah05/SQL/tree/master/1068-product-sales-analysis-i) |
+| [1280-students-and-examinations](https://github.com/AditiSah05/SQL/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AditiSah05/SQL/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/AditiSah05/SQL/tree/master/1484-group-sold-products-by-the-date) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/AditiSah05/SQL/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
