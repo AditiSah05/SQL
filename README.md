@@ -28,6 +28,7 @@ Generated with LeetHub v2: https://github.com/arunbhardwaj/LeetHub-2.0
 | [0620-not-boring-movies](https://github.com/AditiSah05/SQL/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/AditiSah05/SQL/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/AditiSah05/SQL/tree/master/1068-product-sales-analysis-i) |
+| [1070-product-sales-analysis-iii](https://github.com/AditiSah05/SQL/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/AditiSah05/SQL/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/AditiSah05/SQL/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/AditiSah05/SQL/tree/master/1174-immediate-food-delivery-ii) |
