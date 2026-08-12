@@ -27,6 +27,7 @@ Generated with LeetHub v2: https://github.com/arunbhardwaj/LeetHub-2.0
 | [0620-not-boring-movies](https://github.com/AditiSah05/SQL/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/AditiSah05/SQL/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/AditiSah05/SQL/tree/master/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](https://github.com/AditiSah05/SQL/tree/master/1075-project-employees-i) |
 | [1280-students-and-examinations](https://github.com/AditiSah05/SQL/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AditiSah05/SQL/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/AditiSah05/SQL/tree/master/1484-group-sold-products-by-the-date) |
