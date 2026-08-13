@@ -38,6 +38,7 @@ Generated with LeetHub v2: https://github.com/arunbhardwaj/LeetHub-2.0
 | [1193-monthly-transactions-i](https://github.com/AditiSah05/SQL/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/AditiSah05/SQL/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/AditiSah05/SQL/tree/master/1280-students-and-examinations) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/AditiSah05/SQL/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AditiSah05/SQL/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/AditiSah05/SQL/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/AditiSah05/SQL/tree/master/1527-patients-with-a-condition) |
