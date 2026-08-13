@@ -25,6 +25,7 @@ Generated with LeetHub v2: https://github.com/arunbhardwaj/LeetHub-2.0
 | [0550-game-play-analysis-iv](https://github.com/AditiSah05/SQL/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/AditiSah05/SQL/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/AditiSah05/SQL/tree/master/0577-employee-bonus) |
+| [0596-classes-with-at-least-5-students](https://github.com/AditiSah05/SQL/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/AditiSah05/SQL/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/AditiSah05/SQL/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/AditiSah05/SQL/tree/master/1068-product-sales-analysis-i) |
