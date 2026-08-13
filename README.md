@@ -26,6 +26,7 @@ Generated with LeetHub v2: https://github.com/arunbhardwaj/LeetHub-2.0
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/AditiSah05/SQL/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/AditiSah05/SQL/tree/master/0577-employee-bonus) |
 | [0596-classes-with-at-least-5-students](https://github.com/AditiSah05/SQL/tree/master/0596-classes-with-at-least-5-students) |
+| [0619-biggest-single-number](https://github.com/AditiSah05/SQL/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/AditiSah05/SQL/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/AditiSah05/SQL/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/AditiSah05/SQL/tree/master/1045-customers-who-bought-all-products) |
