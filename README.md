@@ -42,6 +42,7 @@ Generated with LeetHub v2: https://github.com/arunbhardwaj/LeetHub-2.0
 | [1204-last-person-to-fit-in-the-bus](https://github.com/AditiSah05/SQL/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/AditiSah05/SQL/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/AditiSah05/SQL/tree/master/1280-students-and-examinations) |
+| [1321-restaurant-growth](https://github.com/AditiSah05/SQL/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/AditiSah05/SQL/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/AditiSah05/SQL/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AditiSah05/SQL/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
