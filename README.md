@@ -38,6 +38,7 @@ Generated with LeetHub v2: https://github.com/arunbhardwaj/LeetHub-2.0
 | [1164-product-price-at-a-given-date](https://github.com/AditiSah05/SQL/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/AditiSah05/SQL/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/AditiSah05/SQL/tree/master/1193-monthly-transactions-i) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/AditiSah05/SQL/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/AditiSah05/SQL/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/AditiSah05/SQL/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/AditiSah05/SQL/tree/master/1327-list-the-products-ordered-in-a-period) |
