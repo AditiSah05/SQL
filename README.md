@@ -30,6 +30,7 @@ Generated with LeetHub v2: https://github.com/arunbhardwaj/LeetHub-2.0
 | [0596-classes-with-at-least-5-students](https://github.com/AditiSah05/SQL/tree/master/0596-classes-with-at-least-5-students) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/AditiSah05/SQL/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/AditiSah05/SQL/tree/master/0607-sales-person) |
+| [0608-tree-node](https://github.com/AditiSah05/SQL/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/AditiSah05/SQL/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/AditiSah05/SQL/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/AditiSah05/SQL/tree/master/0620-not-boring-movies) |
