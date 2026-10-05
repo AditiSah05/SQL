@@ -80,6 +80,7 @@ Generated with LeetHub v2: https://github.com/arunbhardwaj/LeetHub-2.0
 | [1978-employees-whose-manager-left-the-company](https://github.com/AditiSah05/SQL/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/AditiSah05/SQL/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3421-find-students-who-improved](https://github.com/AditiSah05/SQL/tree/master/3421-find-students-who-improved) |
+| [3436-find-valid-emails](https://github.com/AditiSah05/SQL/tree/master/3436-find-valid-emails) |
 <!---LeetCode Topics End-->
 
 ## Project Overview
