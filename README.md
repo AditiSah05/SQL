@@ -72,6 +72,7 @@ Generated with LeetHub v2: https://github.com/arunbhardwaj/LeetHub-2.0
 | [1741-find-total-time-spent-by-each-employee](https://github.com/AditiSah05/SQL/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/AditiSah05/SQL/tree/master/1789-primary-department-for-each-employee) |
 | [1795-rearrange-products-table](https://github.com/AditiSah05/SQL/tree/master/1795-rearrange-products-table) |
+| [1873-calculate-special-bonus](https://github.com/AditiSah05/SQL/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/AditiSah05/SQL/tree/master/1890-the-latest-login-in-2020) |
 | [1907-count-salary-categories](https://github.com/AditiSah05/SQL/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/AditiSah05/SQL/tree/master/1934-confirmation-rate) |
