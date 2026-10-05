@@ -81,6 +81,7 @@ Generated with LeetHub v2: https://github.com/arunbhardwaj/LeetHub-2.0
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/AditiSah05/SQL/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3421-find-students-who-improved](https://github.com/AditiSah05/SQL/tree/master/3421-find-students-who-improved) |
 | [3436-find-valid-emails](https://github.com/AditiSah05/SQL/tree/master/3436-find-valid-emails) |
+| [3451-find-invalid-ip-addresses](https://github.com/AditiSah05/SQL/tree/master/3451-find-invalid-ip-addresses) |
 <!---LeetCode Topics End-->
 
 ## Project Overview
