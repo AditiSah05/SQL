@@ -87,6 +87,7 @@ Generated with LeetHub v2: https://github.com/arunbhardwaj/LeetHub-2.0
 | [3497-analyze-subscription-conversion](https://github.com/AditiSah05/SQL/tree/master/3497-analyze-subscription-conversion) |
 | [3521-find-product-recommendation-pairs](https://github.com/AditiSah05/SQL/tree/master/3521-find-product-recommendation-pairs) |
 | [3554-find-category-recommendation-pairs](https://github.com/AditiSah05/SQL/tree/master/3554-find-category-recommendation-pairs) |
+| [3564-seasonal-sales-analysis](https://github.com/AditiSah05/SQL/tree/master/3564-seasonal-sales-analysis) |
 <!---LeetCode Topics End-->
 
 ## Project Overview
