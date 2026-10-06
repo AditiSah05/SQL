@@ -84,6 +84,7 @@ Generated with LeetHub v2: https://github.com/arunbhardwaj/LeetHub-2.0
 | [3451-find-invalid-ip-addresses](https://github.com/AditiSah05/SQL/tree/master/3451-find-invalid-ip-addresses) |
 | [3475-dna-pattern-recognition](https://github.com/AditiSah05/SQL/tree/master/3475-dna-pattern-recognition) |
 | [3482-analyze-organization-hierarchy](https://github.com/AditiSah05/SQL/tree/master/3482-analyze-organization-hierarchy) |
+| [3497-analyze-subscription-conversion](https://github.com/AditiSah05/SQL/tree/master/3497-analyze-subscription-conversion) |
 <!---LeetCode Topics End-->
 
 ## Project Overview
