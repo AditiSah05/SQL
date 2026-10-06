@@ -90,6 +90,7 @@ Generated with LeetHub v2: https://github.com/arunbhardwaj/LeetHub-2.0
 | [3564-seasonal-sales-analysis](https://github.com/AditiSah05/SQL/tree/master/3564-seasonal-sales-analysis) |
 | [3570-find-books-with-no-available-copies](https://github.com/AditiSah05/SQL/tree/master/3570-find-books-with-no-available-copies) |
 | [3586-find-covid-recovery-patients](https://github.com/AditiSah05/SQL/tree/master/3586-find-covid-recovery-patients) |
+| [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/AditiSah05/SQL/tree/master/3601-find-drivers-with-improved-fuel-efficiency) |
 <!---LeetCode Topics End-->
 
 ## Project Overview
