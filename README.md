@@ -86,6 +86,7 @@ Generated with LeetHub v2: https://github.com/arunbhardwaj/LeetHub-2.0
 | [3482-analyze-organization-hierarchy](https://github.com/AditiSah05/SQL/tree/master/3482-analyze-organization-hierarchy) |
 | [3497-analyze-subscription-conversion](https://github.com/AditiSah05/SQL/tree/master/3497-analyze-subscription-conversion) |
 | [3521-find-product-recommendation-pairs](https://github.com/AditiSah05/SQL/tree/master/3521-find-product-recommendation-pairs) |
+| [3554-find-category-recommendation-pairs](https://github.com/AditiSah05/SQL/tree/master/3554-find-category-recommendation-pairs) |
 <!---LeetCode Topics End-->
 
 ## Project Overview
