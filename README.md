@@ -14,6 +14,7 @@ Generated with LeetHub v2: https://github.com/arunbhardwaj/LeetHub-2.0
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/AditiSah05/SQL/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/AditiSah05/SQL/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/AditiSah05/SQL/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/AditiSah05/SQL/tree/master/0180-consecutive-numbers) |
